@@ -3,19 +3,20 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# Introduction to Digital Storytelling
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" fill="currentColor" viewBox="0 0 16 16" style="display:block;margin:1rem auto 1.5rem auto;">
+  <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2"/>
+  <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1z"/>
+</svg>
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+Welcome back to the afternoon session of Day 3 of the Summer Institute for Digital Inquiry!
 
-*Add your workshop abstract here!*
+This afternoon we'll learn about digital storytelling. 
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+In this lesson, you'll learn the basic principles of digital storytelling and get experience using two very different digital storytelling tools. 
 
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+By the end, you'll have created two stories and learned how to use these tools to enhance others' understanding of your research.
 
 {% include toc.html %}
 
