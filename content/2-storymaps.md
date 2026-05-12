@@ -108,6 +108,7 @@ You can use the search bar at the top right to choose the location you want tied
 
 Add a new slide just like you did in Sidecar. Each time you add a new location, you'll notice that the default zoom level of the map changes. Map tours automatically determine zoom level based on the locations of each point you add to the map. 
 
+
 ---
 
 ## Previewing your StoryMap
