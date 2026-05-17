@@ -1,7 +1,7 @@
 ---
 title: What is Digital Storytelling?
 nav: Lesson
-topics: digital storytelling; narrative; research communication
+topics: Digital storytelling; Narrative; Research communication
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" fill="currentColor" fill="currentColor" viewBox="0 0 16 16" style="display:block;margin:1rem auto 1.5rem auto;">
@@ -105,4 +105,4 @@ In the rest of this session, we will get hands-on practice building stories in S
 Create a linear multimedia narrative using text, media, and maps.
 
 **Activity 2: Twine**
-Build and save a short, branching narrative using the web-based Twine editor.
+Build and export a short, branching narrative using the web-based Twine editor.

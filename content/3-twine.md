@@ -1,7 +1,7 @@
 ---
 title: "Activity: Twine"
 nav: Twine
-topics: twine; interactive narrative; non-linear storytelling
+topics: Twine; Interactive narrative; Non-linear storytelling
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" fill="currentColor" viewBox="0 0 16 16" style="display:block;margin:1rem auto 1.5rem auto;">
@@ -12,7 +12,7 @@ topics: twine; interactive narrative; non-linear storytelling
 
 ## Introduction
 
-In this activity, you'll create a Twine story in which the a grad student researcher arrives in the archives and has to make some decisions about how to conduct their research. 
+In this activity, you'll create a Twine story in which a grad student researcher arrives in the archives and has to make some decisions about how to conduct their research. 
 
 We'll build the first few passages together, then you'll get a chance to take the story in whatever direction you choose.
 
@@ -42,7 +42,7 @@ Double-click **Untitled Passage**. A text editor will pop up. Click on **Rename*
 
 > [[Search through the finding aid carefully]]
 
-> [[Request that the archivist pull the first box you com across]]
+> [[Request that the archivist pull the first box you come across]]
 
 The text will save automatically. When you're done, close the text editor by hitting **Esc** on your keyboard. You'll notice that two new passages have been created, with lines connecting them to your **Start** passage. Twine created these passages automatically based on the text you put in [[double brackets]] in your first passage. 
 
@@ -53,7 +53,7 @@ Double click on the **Search through the finding aid carefully** passage and pas
 
 > [[Request the unsorted correspondence]]
 
-Now, double click **Request that the archivist pull the first box you come across** passage and paste the following:
+You should see a new, empty passage titled **Request the unsorted correspondence** appear. Now, double click the **Request that the archivist pull the first box you come across** passage and paste the following:
 
 > Box one contains 400 pages of committee minutes. Box two is more committee minutes. By box four you've lost track of what you're looking for.
 
@@ -63,7 +63,7 @@ Now, double click **Request that the archivist pull the first box you come acros
 
 You'll notice that this passage did not automatically create a new passage. Instead, an arrow has been drawn from the passage you just edited to the one next to it. We've used [[double brackets]] to call the name of a passage that already exists, therefore making a connection to it, rather than creating a new one.
 
-Now, double click on *Request the unsorted correspondence**. Paste this in:
+Now, double click on **Request the unsorted correspondence**. Paste this in:
 
 > The folder arrives. Inside: a series of letters between two researchers who, according to every published history you've read, never corresponded.
 
@@ -119,7 +119,7 @@ Twine stories don't have to just be white text on black background. There are a 
 
 - **Text customization:** in the Text editor, you can alter the color, styling, justification, and other features of your text. 
 - **Adding images:** images can be embedded using HTML: `<img src="your-image-url.jpg">` 
-  - you'll usually want to use URLs of images that are already hosted online. If you're using the GitHub route described above, you can add image files to your GitHub repository and replace "your-image-url.jpg" in the example with the actual filename.
+  - You'll usually want to use URLs of images that are already hosted online. If you're using the GitHub route described above, you can add image files to your GitHub repository and replace "your-image-url.jpg" in the example with the actual filename.
 - **Change overall appearance:** under **Story**, click on **Stylesheet**. Here you can add custom CSS to affect the style and appearance of your story. 
 
 You can learn more about all this and other tweaks you can make in the [Twine Cookbook](https://twinery.org/cookbook/){:target="_blank" rel="noopener"}.

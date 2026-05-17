@@ -1,7 +1,7 @@
 ---
 title: "Activity: ArcGIS StoryMaps"
 nav: StoryMaps
-topics: 
+topics: StoryMaps; Multimedia; Interactive Narrative
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" fill="currentColor" viewBox="0 0 16 16" style="display:block;margin:1rem auto 1.5rem auto;">
@@ -12,7 +12,7 @@ topics:
 
 ## Introduction
 
-In this activity, you'll learn how to you ArcGIS StoryMaps to effectively communicate your research. By the end, you'll be able to:
+In this activity, you'll learn how to use ArcGIS StoryMaps to effectively communicate your research. By the end, you'll be able to:
 - Navigate to the StoryMaps page within ArcGIS Online
 - Create a StoryMap and customize its appearance
 - Add text, media, maps, and other types of content to your StoryMap
@@ -22,7 +22,7 @@ In this activity, you'll learn how to you ArcGIS StoryMaps to effectively commun
 
 ## Getting Started
 
-Before you begin, Download the [images in this folder.](https://drive.google.com/drive/folders/1d37-5oRtXhh3R7oMPzSF357CiaF5QQ7L?usp=sharing){:target="_blank" rel="noopener"} We'll be using these images to create our StoryMaps.
+Before you begin, download the [images in this folder.](https://drive.google.com/drive/folders/1d37-5oRtXhh3R7oMPzSF357CiaF5QQ7L?usp=sharing){:target="_blank" rel="noopener"} We'll be using these images to create our StoryMaps.
 
 Navigate to the [ISU ArcGIS Online Homepage](https://isugisf.maps.arcgis.com/){:target="_blank" rel="noopener"} and log in if you aren't already. In the nav bar at the top, click on the grid of nine dots. Find the teal **StoryMaps** icon -- it should be one of the first few icons at the top.
 
@@ -36,17 +36,17 @@ Now that we have some content, we can customize its appearance. In the nav bar a
 
 Next, under **Optional story sections**, you should turn **Navigation** on. This will automatically create a nav bar under your title card that will allow your viewers to navigate to different sections of your StoryMap. We'll cover how to create headings that will appear in this nav bar shortly. 
 
-Finally, you can choose from one of six pre-set themes, affecting the color pallette, text, and other visual features of the StoryMap. You can also browse user-created themes or create your own. For now, choose one of the pre-set themes. You can always change this later.
+Finally, you can choose from one of six pre-set themes, affecting the color palette, text, and other visual features of the StoryMap. You can also browse user-created themes or create your own. For now, choose one of the pre-set themes. You can always change this later.
 
 ## Adding text
 
-in StoryMaps, text, along with all other content types, is added in blocks. To add your first text block, click the teal **+** button and under **Basic**, select **Text**. 
+In StoryMaps, text, along with all other content types, is added in blocks. To add your first text block, click the teal **+** button and under **Basic**, select **Text**. 
 
 This first text block is going to be a heading. Since it's our first section, let's call it "Introduction". Highlight that word, and you should see some text editor options pop up. Click on **Paragraph** and change it to **Heading 1**. Paragraph is the style of text you'll use for regular pieces of your narrative -- Headings denote new sections. You may have noticed that when you changed this text to Heading 1, it appeared in your nav bar. **All Heading 1s in your StoryMap will automatically appear in your nav bar, giving readers an easy way to get to specific parts of the story.**
 
 Add another text block. This one will be a regular paragraph style block, where you can start your narrative. No need to write a whole essay right away -- just a few words will work for now, you can always come back to edit any of your blocks later.
 
-Don't worry to much about putting a block in exactly the right place relative to your other content. You can always to back and insert new blocks between two blocks you've already created!
+Don't worry too much about putting a block in exactly the right place relative to your other content. You can always go back and insert new blocks between two blocks you've already created!
 
 ---
 
@@ -82,7 +82,7 @@ Sometimes you don't have time to create a map in Map Viewer, or the content you 
 
 Click the **+** button, select **Map**, and then, at the top of the page, choose **Create express map**. 
 
-Here, you can create a simple map using points, lines, and polygons. Add a point by clicking on the **pin** icon in the bar along the top. You can assign an image to that point, give it a title and description, and change its style. When you're, done, hit Save. You can also create numbered points by clicking the **circled 1** icon. Each subsequent time you click the map using numbered points, the number will increase. 
+Here, you can create a simple map using points, lines, and polygons. Add a point by clicking on the **pin** icon in the bar along the top. You can assign an image to that point, give it a title and description, and change its style. When you're done, hit Save. You can also create numbered points by clicking the **circled 1** icon. Each subsequent time you click the map using numbered points, the number will increase. 
 
 You can use the other icons in the bar along the top to create different kinds of lines and polygons. Each of these can also be assigned images, titles, and descriptions. When you're happy with your Express Map, click **Save** in the bottom right. 
 
@@ -100,7 +100,7 @@ Sidecars are built by creating slides. To create your first slide, add some text
 
 This tool can be useful for showing different views of the same map -- for each slide you can set different desired center points and zoom levels for your map, highlighting different views. It can also be useful if you want to focus on one place -- maybe your first slide has a map to orient your audience, and all subsequent slides include images from that place. 
 
-**Map tours** are fundamentally rooted in a single map. To create one, click the **+** button below your Sidecar, and choose **Map tour**. You have three options -- for now, select **Start from scratch**. You'll be prompted to choose from one of four layouts. The first two are best when you want your audience to move through the tour in a set order. The last two are best when you have many locations to highlight and order is not important. We'll choose Map Focused for now. 
+**Map tours** are fundamentally rooted in a single map. To create one, click the **+** button below your last content block, and choose **Map tour**. You have three options -- for now, select **Start from scratch**. You'll be prompted to choose from one of four layouts. The first two are best when you want your audience to move through the tour in a set order. The last two are best when you have many locations to highlight and order is not important. We'll choose Map Focused for now. 
 
 At first, this interface looks similar to the Sidecar interface. The primary difference is that there's a blank map on your screen by default, instead of the option to choose a map or image. Add an image and title to your first slide, then, under the title card, click **Add location**. 
 
@@ -139,4 +139,4 @@ If you've published a StoryMap but no longer wish for others to be able to see i
 
 We added lots of different kinds of content to this StoryMap, but we didn't exactly build a good story. This StoryMap features only one heading, very little text, and no organizational structure. 
 
-Using the principles of good storytelling that we discussed earlier, either **edit this StoryMap** or **create a new one** and create a logical structure for a good narrative flow. Use headings (and subheadings if necessary) to separate sections from one another, and include text blocks and other content types of your choice in each section. Don't worry about what the text actually says -- you can use a filler text from this [Lorem Ipsum generator](https://www.lipsum.com/){:target="_blank" rel="noopener"} if you'd like. 
+Using the principles of good storytelling that we discussed earlier, either **edit this StoryMap** or **create a new one** and create a logical structure for a good narrative flow. Use headings (and subheadings if necessary) to separate sections from one another, and include text blocks and other content types of your choice in each section. Don't worry about what the text actually says -- you can use filler text from this [Lorem Ipsum generator](https://www.lipsum.com/){:target="_blank" rel="noopener"} if you'd like. 

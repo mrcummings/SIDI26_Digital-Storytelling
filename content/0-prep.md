@@ -13,3 +13,5 @@ topics: Accounts; Logins; Prerequisites
 In order to successfully participate in this afternoon's lesson, you must be logged into your [Iowa State University ArcGIS Online Account](https://isugisf.maps.arcgis.com/){:target="_blank" rel="noopener"} (if you followed along with this morning's lesson you should be already). 
 
 It helps, but is not strictly necessary, for you to have created, saved, and publicly shared a map in ArcGIS Online Map Viewer. 
+
+Basic familiarity with GitHub and GitHub Pages is also helpful, but not strictly necessary.
